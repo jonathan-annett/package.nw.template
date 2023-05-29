@@ -1,0 +1,8 @@
+{
+  "name": "helloworld",
+  "main": "./index.html",
+  "update.info": {
+    "guid": "6b962495-6b0b-4417-ab98-d70f512fcdc5",
+    "updates": "https://jonathan-annett.github.io/auto-update"
+  }
+}
